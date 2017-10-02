@@ -1,0 +1,22 @@
+img{
+	width: 100%;
+}
+.relative{
+	position: relative;
+}
+button.add-on-input{
+	position: absolute;
+    top: 2px;
+    right: 17px;
+}
+.image-preview{
+    display: block;
+}
+.add-on-input-post-form{
+	position: absolute;
+    top: 27px;
+    right: 2px;
+}
+label.error{
+	color: red!important;
+}
